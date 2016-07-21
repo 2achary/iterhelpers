@@ -1,2 +1,2 @@
-# iterhelpers
-Helper function for iterables including single()
+# sequencehelpers
+Helper function for sequences
