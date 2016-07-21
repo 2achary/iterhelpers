@@ -2,7 +2,7 @@ from distutils.core import setup
 
 setup(
   name='sequencehelpers',
-  packages=[],
+  py_modules=['sequencehelpers'],
   version='0.1',
   description="A library consisting of functions for interacting with sequences and iterables.",
   author='Zach Swift',
